@@ -1,0 +1,14 @@
+D:\Documents\dio\.net\projetos\testes-desafio\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.exe
+D:\Documents\dio\.net\projetos\testes-desafio\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.deps.json
+D:\Documents\dio\.net\projetos\testes-desafio\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.runtimeconfig.json
+D:\Documents\dio\.net\projetos\testes-desafio\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.dll
+D:\Documents\dio\.net\projetos\testes-desafio\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.pdb
+D:\Documents\dio\.net\projetos\testes-desafio\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\dio\.net\projetos\testes-desafio\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.AssemblyInfoInputs.cache
+D:\Documents\dio\.net\projetos\testes-desafio\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.AssemblyInfo.cs
+D:\Documents\dio\.net\projetos\testes-desafio\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.csproj.CoreCompileInputs.cache
+D:\Documents\dio\.net\projetos\testes-desafio\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.dll
+D:\Documents\dio\.net\projetos\testes-desafio\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\refint\TestesUnitarios.Desafio.Console.dll
+D:\Documents\dio\.net\projetos\testes-desafio\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.pdb
+D:\Documents\dio\.net\projetos\testes-desafio\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.genruntimeconfig.cache
+D:\Documents\dio\.net\projetos\testes-desafio\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\ref\TestesUnitarios.Desafio.Console.dll
